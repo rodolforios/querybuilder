@@ -27,7 +27,7 @@
     "mocha": "^2.2.4"
   },
   "dependencies": {
-    "exception": "git://github.com/s2way/Exception.git",
+    "exception": "https://github.com/s2way/Exception.git",
     "underscore": "^1.8.3"
   }
 }
